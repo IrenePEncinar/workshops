@@ -34,6 +34,7 @@ En cualquier caso, siempre busco resolver los problemas de forma creativa, inten
 - [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 - [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
 - [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
+- [Thinkful - Logic Drills: Traffic light](https://www.codewars.com/kata/thinkful-logic-drills-traffic-light)
 
 ### 7 kyu
 - [Return pyramids](https://www.codewars.com/kata/5a1c28f9c9fc0ef2e900013b)
