@@ -24,9 +24,10 @@
 En cualquier caso, siempre busco resolver los problemas de forma creativa, intentando buscar una solución eficiente o *inteligente*. Investigo librerías o algoritmos existentes, pienso un poco en papel y consulto documentación, principalmente la [oficial de Python](https://docs.python.org/3/).
 
 ## Manos a la obra
-- Resolver un reto entre todos (nivel 8)
+- Resolver un reto entre todos: [Thinkful - Logic Drills: Traffic light](https://www.codewars.com/kata/thinkful-logic-drills-traffic-light)
 - Dividirnos en grupos según nuestro nivel
 - Resolver katas propuestas o investigar otras que nos interesen
+- Cada grupo presenta su solución a una kata que le haya parecido interesante y nos cuenta lo que ha aprendido
 
 ## Propuesta de katas
 ### 8 kyu
@@ -34,7 +35,6 @@ En cualquier caso, siempre busco resolver los problemas de forma creativa, inten
 - [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 - [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
 - [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
-- [Thinkful - Logic Drills: Traffic light](https://www.codewars.com/kata/thinkful-logic-drills-traffic-light)
 
 ### 7 kyu
 - [Return pyramids](https://www.codewars.com/kata/5a1c28f9c9fc0ef2e900013b)
