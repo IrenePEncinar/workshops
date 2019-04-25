@@ -43,6 +43,7 @@ En cualquier caso, siempre busco resolver los problemas de forma creativa, inten
 - [Simple Fun #144: Distinct Digit Year](https://www.codewars.com/kata/58aa68605aab54a26c0001a6)
 
 ### 6 kyu
+- [Thinkful - Object Drills: Puzzlebox](https://www.codewars.com/kata/thinkful-object-drills-puzzlebox)
 - [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449)
 - [Triangle type](https://www.codewars.com/kata/53907ac3cd51b69f790006c5)
 - [Which filetypes are you using the most?](https://www.codewars.com/kata/5c7254fcaccda64d01907710)
