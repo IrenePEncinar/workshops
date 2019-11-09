@@ -4,6 +4,7 @@
   "description": "Introduction to REST APIs and Express",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "IrenePEncinar",
